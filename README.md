@@ -15,6 +15,6 @@ Email: muzdadid@gmail.com
 This repository contains various Data Science projects which reflects what I have learnt from different online platforms.
 
 **Language used :** Python </br>
-**Development Tools :** Jupyter Notebook </br>
+**Development Tools :** [Jupyter Notebook](https://jupyter.org/)</br>
 **Platform :** [Skills Network Labs](https://labs.cognitiveclass.ai/), [Google Colab](https://colab.research.google.com/)
  
