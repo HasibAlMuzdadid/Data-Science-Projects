@@ -16,5 +16,5 @@ This repository contains various Data Science projects which reflects what I hav
 
 **Language used :** Python </br>
 **Development Tools :** Jupyter Notebook </br>
-**Platform :** Skills Network Labs, Google Colab
+**Platform :** [Skills Network Labs](https://labs.cognitiveclass.ai/), [Google Colab](https://colab.research.google.com/)
  
