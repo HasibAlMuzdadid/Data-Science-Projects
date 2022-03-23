@@ -12,7 +12,7 @@ Rajshahi University of Engineering & Technology (RUET) </br>
 Email: muzdadid@gmail.com
 
 ## Project Description :
-This repository contains various Data Science projects which I have implemented for the completion of various online courses offered on different platforms like Coursera, freeCodeCamp and others and this reflects what I have learnt from these online platforms.
+This repository contains various Data Science projects which I have implemented for the completion of various online courses offered on different platforms like [Coursera](https://www.coursera.org/), [freeCodeCamp](https://www.freecodecamp.org/) and others and also this reflects what I have learnt from these online platforms.
 
 **Language used :** Python </br>
 **Development Tools :** [Jupyter Notebook](https://jupyter.org/)</br>
