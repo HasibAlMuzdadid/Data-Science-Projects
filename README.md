@@ -11,7 +11,7 @@ Hasib Al Muzdadid</br>
 [Rajshahi University of Engineering & Technology (RUET)](https://www.ruet.ac.bd/) </br>
 Portfolio: https://hasibalmuzdadid.github.io </br>
 LinkedIn: https://www.linkedin.com/in/hasibalmuzdadid  </br>
-Email: muzdadid@gmail.com
+
 
 ## Project Description :
 This repository contains various **Data Science** projects which I have implemented for the completion of various online courses offered on different platforms like [Coursera](https://www.coursera.org/), [freeCodeCamp](https://www.freecodecamp.org/) & others and also this reflects what I have learnt by taking these courses.
